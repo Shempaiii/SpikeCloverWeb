@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        details": [
+        {
+            "appID": "7C284HW7NH.com.gorentals.SpikeCloverIOS",
+            "paths": ["/OAuthResponse/*"]
+        }] 
+    } 
